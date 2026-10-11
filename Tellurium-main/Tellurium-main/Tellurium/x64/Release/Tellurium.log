@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Patchfinder.cpp
+  Redirection.cpp
+  Unreal.cpp
+  Hooks.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 76 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tellurium.vcxproj -> C:\Users\reap\Downloads\Tellurium-main\Tellurium-main\x64\Release\Tellurium.dll
